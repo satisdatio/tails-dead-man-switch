@@ -25,7 +25,7 @@
 
 ##  Features
 
-- ** Auditable & Tamper-Evident:**  
+- ** Auditable and Tamper-Evident:**  
   Every action, heartbeat, and configuration change is logged with chained SHA-256 hashes. Any modification to the log breaks the chain, making tampering immediately detectable.
 
 - ** Modern Native UI:**  
