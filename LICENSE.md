@@ -1,6 +1,6 @@
 # Personal Use License
 
-Copyright (c) 2026 rozhanisty
+Copyright (c) 2026 Satisdatio Studio
 
 ## Permission
 
@@ -16,4 +16,4 @@ Permission is hereby granted, free of charge, to any individual person to use, c
 
 ## Contact
 
-For permissions beyond personal use, contact: rozhan.isty@protonmail.com
+For permissions beyond personal use, contact: satisdatio@protonmail.com
