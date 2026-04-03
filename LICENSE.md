@@ -1,6 +1,6 @@
 # Personal Use License
 
-Copyright (c) 2026 Satisdatio Studio
+Copyright (c) 2026 Satisdatio Studio / satisdatio
 
 ## Permission
 
