@@ -1,0 +1,21 @@
+{
+  "armed": false,
+  "deadline": null,
+  "mode": "airgap",
+  "actions": [
+    {
+      "type": "delete_file",
+      "path": "/home/amnesia/Persistent/sensitive/data.txt"
+    },
+    {
+      "type": "write_email_draft",
+      "to": "contact@example.com",
+      "subject": "Dead Man Triggered",
+      "body": "This is an automated alert."
+    },
+    {
+      "type": "run_command",
+      "command": "shred -u /home/amnesia/Persistent/keys/*"
+    }
+  ]
+}
